@@ -1,0 +1,1717 @@
+13/09/2016 2:19:01 PM: Word number should be more than 10(inclusive) and less than 1000(inclusive).
+ 
+13/09/2016 2:59:10 PM: The actual word number is not equal to the setted word number
+ 
+13/09/2016 3:00:40 PM: The actual word number is not equal to the setted word number
+ 
+13/09/2016 3:01:01 PM: The actual word number is not equal to the setted word number
+ 
+13/09/2016 3:20:32 PM: The actual word number is not equal to the setted word number
+ 
+13/09/2016 3:26:41 PM: The actual word number is not equal to the setted word number
+ 
+13/09/2016 3:26:58 PM: The actual word number is not equal to the setted word number
+ 
+13/09/2016 3:37:26 PM: The actual word number is not equal to the setted word number
+ 
+13/09/2016 3:38:28 PM: The actual word number is not equal to the setted word number
+ 
+13/09/2016 3:51:34 PM: The actual word number is not equal to the setted word number
+ 
+13/09/2016 3:53:28 PM: The actual word number is not equal to the setted word number
+ 
+13/09/2016 3:53:51 PM: The actual word number is not equal to the setted word number
+ 
+13/09/2016 3:55:26 PM: The actual word number is not equal to the setted word number
+ 
+13/09/2016 3:55:26 PM: The word ROBERT does not belong to the word list.
+ 
+13/09/2016 3:55:26 PM: The word OSCAR does not belong to the word list.
+ 
+13/09/2016 3:55:26 PM: The word JILL does not belong to the word list.
+ 
+13/09/2016 3:55:26 PM: The word MARY does not belong to the word list.
+ 
+13/09/2016 3:55:26 PM: The word LARRY does not belong to the word list.
+ 
+13/09/2016 3:55:26 PM: The word GARY does not belong to the word list.
+ 
+13/09/2016 3:55:26 PM: The word JACK does not belong to the word list.
+ 
+13/09/2016 3:55:26 PM: The word JESSICA does not belong to the word list.
+ 
+13/09/2016 3:55:26 PM: The word MARK does not belong to the word list.
+ 
+13/09/2016 3:55:26 PM: The word ROGER does not belong to the word list.
+ 
+13/09/2016 3:55:26 PM: The word HARRY does not belong to the word list.
+ 
+13/09/2016 3:55:26 PM: The word CHARLES does not belong to the word list.
+ 
+13/09/2016 3:55:28 PM: The word WEND does not belong to the word list.
+ 
+13/09/2016 3:57:46 PM: The actual word number is not equal to the setted word number
+ 
+13/09/2016 3:57:47 PM: The word WEND does not belong to the word list.
+ 
+13/09/2016 3:59:47 PM: The actual word number is 30, but the setted word number is 0
+ 
+13/09/2016 3:59:48 PM: The word WEND does not belong to the word list.
+ 
+13/09/2016 4:12:27 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 2:52:52 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 3:10:20 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 3:12:35 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 3:13:34 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 3:14:48 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 3:17:00 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 3:18:19 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 3:21:25 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 3:24:22 PM: The difficulty of crozzle should be "EASY" or "MEDIUM" or "HARD".
+ 
+14/09/2016 3:25:17 PM: The difficulty of crozzle should be "EASY" or "MEDIUM" or "HARD".
+ 
+14/09/2016 3:25:56 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 3:27:49 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 3:28:45 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 3:29:30 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:33 PM:  is an invalid input of configuration.
+ 
+14/09/2016 6:50:33 PM:   is an invalid input of configuration.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:50:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:54:37 PM:  is an invalid input of configuration.
+ 
+14/09/2016 6:54:37 PM:   is an invalid input of configuration.
+ 
+14/09/2016 6:54:39 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 6:55:35 PM:  is an invalid input of configuration.
+ 
+14/09/2016 6:55:35 PM:   is an invalid input of configuration.
+ 
+14/09/2016 6:55:37 PM: The word WEND does not belong to the word list.
+ 
+14/09/2016 7:07:22 PM: The setting for horizontal crozzle word number  is invalid.
+ 
+14/09/2016 7:07:22 PM: The setting for horizontal crozzle word number abc is invalid
+ 
+14/09/2016 7:11:53 PM: The setting for horizontal crozzle word number  is invalid.
+ 
+14/09/2016 7:11:53 PM: The setting for horizontal crozzle word number abc is invalid
+ 
+14/09/2016 7:11:53 PM: The letter M is out of boundary.
+ 
+14/09/2016 7:11:53 PM: The letter A is out of boundary.
+ 
+14/09/2016 7:11:53 PM: The letter R is out of boundary.
+ 
+14/09/2016 7:11:53 PM: The letter Y is out of boundary.
+ 
+14/09/2016 7:11:53 PM: The letter I is out of boundary.
+ 
+14/09/2016 7:11:53 PM: The letter L is out of boundary.
+ 
+14/09/2016 7:11:53 PM: The letter L is out of boundary.
+ 
+14/09/2016 7:11:53 PM: The letter L is out of boundary.
+ 
+14/09/2016 7:11:53 PM: The letter M is out of boundary.
+ 
+14/09/2016 7:11:53 PM: The letter A is out of boundary.
+ 
+14/09/2016 7:11:53 PM: The letter R is out of boundary.
+ 
+14/09/2016 7:11:53 PM: The letter K is out of boundary.
+ 
+14/09/2016 7:12:15 PM: CROZZLELIMIT=1000 is an invalid input of configuration.
+ 
+14/09/2016 7:12:15 PM: POINTSPERWORD=:-) is an invalid input of configuration.
+ 
+14/09/2016 7:12:15 PM: INTERSECTING:A=:-) is an invalid input of configuration.
+ 
+14/09/2016 7:12:15 PM: INTERSECTING:B:-)1 is an invalid input of configuration.
+ 
+14/09/2016 7:12:15 PM: IIIIIIIIIIII:C=1 is an invalid input of configuration.
+ 
+14/09/2016 7:12:15 PM: INTERSECTINGD=1 is an invalid input of configuration.
+ 
+14/09/2016 7:12:15 PM: INTERSECTING:=1 is an invalid input of configuration.
+ 
+14/09/2016 7:12:15 PM: INTERSECTING:F1 is an invalid input of configuration.
+ 
+14/09/2016 7:12:15 PM: :G=1 is an invalid input of configuration.
+ 
+14/09/2016 7:12:15 PM: INTERSECTING:H=XXXXXXXXXX is an invalid input of configuration.
+ 
+14/09/2016 7:12:20 PM: The difficulty of crozzle should be "EASY" or "MEDIUM" or "HARD".
+ 
+14/09/2016 7:29:11 PM: The setting for horizontal crozzle word number  is invalid.
+ 
+14/09/2016 7:29:11 PM: The setting for horizontal crozzle word number abc is invalid
+ 
+14/09/2016 7:29:12 PM: The letter M is out of boundary.
+ 
+14/09/2016 7:29:12 PM: The letter A is out of boundary.
+ 
+14/09/2016 7:29:12 PM: The letter R is out of boundary.
+ 
+14/09/2016 7:29:12 PM: The letter Y is out of boundary.
+ 
+14/09/2016 7:29:12 PM: The letter I is out of boundary.
+ 
+14/09/2016 7:29:12 PM: The letter L is out of boundary.
+ 
+14/09/2016 7:29:12 PM: The letter L is out of boundary.
+ 
+14/09/2016 7:29:12 PM: The letter L is out of boundary.
+ 
+14/09/2016 7:29:12 PM: The letter M is out of boundary.
+ 
+14/09/2016 7:29:12 PM: The letter A is out of boundary.
+ 
+14/09/2016 7:29:12 PM: The letter R is out of boundary.
+ 
+14/09/2016 7:29:12 PM: The letter K is out of boundary.
+ 
+14/09/2016 7:29:29 PM: CROZZLELIMIT=1000 is an invalid input of configuration.
+ 
+14/09/2016 7:29:29 PM: POINTSPERWORD=:-) is an invalid input of configuration.
+ 
+14/09/2016 7:29:29 PM: INTERSECTING:A=:-) is an invalid input of configuration.
+ 
+14/09/2016 7:29:29 PM: INTERSECTING:B:-)1 is an invalid input of configuration.
+ 
+14/09/2016 7:29:29 PM: IIIIIIIIIIII:C=1 is an invalid input of configuration.
+ 
+14/09/2016 7:29:29 PM: INTERSECTINGD=1 is an invalid input of configuration.
+ 
+14/09/2016 7:29:29 PM: INTERSECTING:=1 is an invalid input of configuration.
+ 
+14/09/2016 7:29:29 PM: INTERSECTING:F1 is an invalid input of configuration.
+ 
+14/09/2016 7:29:29 PM: :G=1 is an invalid input of configuration.
+ 
+14/09/2016 7:29:29 PM: INTERSECTING:H=XXXXXXXXXX is an invalid input of configuration.
+ 
+14/09/2016 7:31:21 PM: CROZZLELIMIT=1000 is an invalid input of configuration.
+ 
+14/09/2016 7:31:21 PM: POINTSPERWORD=:-) is an invalid input of configuration.
+ 
+14/09/2016 7:31:21 PM: INTERSECTING:A=:-) is an invalid input of configuration.
+ 
+14/09/2016 7:31:21 PM: INTERSECTING:B:-)1 is an invalid input of configuration.
+ 
+14/09/2016 7:31:21 PM: IIIIIIIIIIII:C=1 is an invalid input of configuration.
+ 
+14/09/2016 7:31:21 PM: INTERSECTINGD=1 is an invalid input of configuration.
+ 
+14/09/2016 7:31:21 PM: INTERSECTING:=1 is an invalid input of configuration.
+ 
+14/09/2016 7:31:21 PM: INTERSECTING:F1 is an invalid input of configuration.
+ 
+14/09/2016 7:31:21 PM: :G=1 is an invalid input of configuration.
+ 
+14/09/2016 7:31:21 PM: INTERSECTING:H=XXXXXXXXXX is an invalid input of configuration.
+ 
+14/09/2016 7:32:27 PM: CROZZLELIMIT=1000 is an invalid input of configuration.
+ 
+14/09/2016 7:32:27 PM: POINTSPERWORD=:-) is an invalid input of configuration.
+ 
+14/09/2016 7:32:27 PM: INTERSECTING:A=:-) is an invalid input of configuration.
+ 
+14/09/2016 7:32:27 PM: INTERSECTING:B:-)1 is an invalid input of configuration.
+ 
+14/09/2016 7:32:27 PM: IIIIIIIIIIII:C=1 is an invalid input of configuration.
+ 
+14/09/2016 7:32:27 PM: INTERSECTINGD=1 is an invalid input of configuration.
+ 
+14/09/2016 7:32:27 PM: INTERSECTING:=1 is an invalid input of configuration.
+ 
+14/09/2016 7:32:27 PM: INTERSECTING:F1 is an invalid input of configuration.
+ 
+14/09/2016 7:32:27 PM: :G=1 is an invalid input of configuration.
+ 
+14/09/2016 7:32:27 PM: INTERSECTING:H=XXXXXXXXXX is an invalid input of configuration.
+ 
+14/09/2016 7:33:41 PM: CROZZLELIMIT=1000 is an invalid input of configuration.
+ 
+14/09/2016 7:33:41 PM: POINTSPERWORD=:-) is an invalid input of configuration.
+ 
+14/09/2016 7:33:41 PM: INTERSECTING:A=:-) is an invalid input of configuration.
+ 
+14/09/2016 7:33:41 PM: INTERSECTING:B:-)1 is an invalid input of configuration.
+ 
+14/09/2016 7:33:41 PM: IIIIIIIIIIII:C=1 is an invalid input of configuration.
+ 
+14/09/2016 7:33:41 PM: INTERSECTINGD=1 is an invalid input of configuration.
+ 
+14/09/2016 7:33:41 PM: INTERSECTING:=1 is an invalid input of configuration.
+ 
+14/09/2016 7:33:41 PM: INTERSECTING:F1 is an invalid input of configuration.
+ 
+14/09/2016 7:33:41 PM: :G=1 is an invalid input of configuration.
+ 
+14/09/2016 7:33:41 PM: INTERSECTING:H=XXXXXXXXXX is an invalid input of configuration.
+ 
+14/09/2016 7:34:49 PM: The setting for horizontal crozzle word number  is invalid.
+ 
+14/09/2016 7:34:49 PM: The setting for horizontal crozzle word number abc is invalid
+ 
+14/09/2016 7:34:49 PM: The letter M is out of boundary.
+ 
+14/09/2016 7:34:49 PM: The letter A is out of boundary.
+ 
+14/09/2016 7:34:49 PM: The letter R is out of boundary.
+ 
+14/09/2016 7:34:49 PM: The letter Y is out of boundary.
+ 
+14/09/2016 7:34:49 PM: The letter I is out of boundary.
+ 
+14/09/2016 7:34:49 PM: The letter L is out of boundary.
+ 
+14/09/2016 7:34:49 PM: The letter L is out of boundary.
+ 
+14/09/2016 7:34:49 PM: The letter L is out of boundary.
+ 
+14/09/2016 7:34:49 PM: The letter M is out of boundary.
+ 
+14/09/2016 7:34:49 PM: The letter A is out of boundary.
+ 
+14/09/2016 7:34:49 PM: The letter R is out of boundary.
+ 
+14/09/2016 7:34:49 PM: The letter K is out of boundary.
+ 
+14/09/2016 7:34:58 PM: CROZZLELIMIT=1000 is an invalid input of configuration.
+ 
+14/09/2016 7:34:58 PM: POINTSPERWORD=:-) is an invalid input of configuration.
+ 
+14/09/2016 7:34:58 PM: INTERSECTING:A=:-) is an invalid input of configuration.
+ 
+14/09/2016 7:34:58 PM: INTERSECTING:B:-)1 is an invalid input of configuration.
+ 
+14/09/2016 7:34:58 PM: IIIIIIIIIIII:C=1 is an invalid input of configuration.
+ 
+14/09/2016 7:34:58 PM: INTERSECTINGD=1 is an invalid input of configuration.
+ 
+14/09/2016 7:34:58 PM: INTERSECTING:=1 is an invalid input of configuration.
+ 
+14/09/2016 7:34:58 PM: INTERSECTING:F1 is an invalid input of configuration.
+ 
+14/09/2016 7:34:58 PM: :G=1 is an invalid input of configuration.
+ 
+14/09/2016 7:34:58 PM: INTERSECTING:H=XXXXXXXXXX is an invalid input of configuration.
+ 
+14/09/2016 7:35:01 PM: The difficulty of crozzle should be "EASY" or "MEDIUM" or "HARD".
+ 
+14/09/2016 7:35:01 PM: Crozzle Group can not be 0.
+ 
+14/09/2016 7:35:01 PM: There is no setting for intersect letter A in configuration.
+ 
+14/09/2016 7:35:01 PM: There is no setting for intersect letter B in configuration.
+ 
+14/09/2016 7:35:01 PM: There is no setting for intersect letter C in configuration.
+ 
+14/09/2016 7:35:01 PM: There is no setting for intersect letter D in configuration.
+ 
+14/09/2016 7:35:01 PM: There is no setting for intersect letter E in configuration.
+ 
+14/09/2016 7:35:01 PM: There is no setting for intersect letter F in configuration.
+ 
+14/09/2016 7:35:01 PM: There is no setting for intersect letter G in configuration.
+ 
+14/09/2016 7:35:01 PM: There is no setting for intersect letter H in configuration.
+ 
+14/09/2016 8:06:47 PM: The word ROBERT does not match the constraints.
+ 
+14/09/2016 8:06:47 PM: The word ROGER does not match the constraints.
+ 
+14/09/2016 8:08:18 PM: The word ROBERT does not match the constraints.
+ 
+14/09/2016 8:08:18 PM: The word ROGER does not match the constraints.
+ 
+14/09/2016 10:01:58 PM: The word ROBERT does not match the constraints.
+ 
+14/09/2016 10:01:58 PM: The word ROGER does not match the constraints.
+ 
+14/09/2016 10:04:17 PM: The word ROBERT does not match the intersec constraints.
+ 
+14/09/2016 10:04:17 PM: The word ROGER does not match the intersec constraints.
+ 
+14/09/2016 10:09:08 PM: The word ROBERT does not match the intersec constraints.
+ 
+14/09/2016 10:09:08 PM: The word ROGER does not match the intersec constraints.
+ 
+14/09/2016 10:09:08 PM: The word MARY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:09:08 PM: The word LARRY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:09:08 PM: The word OSCAR and TOM do not match the one grid space constraints.
+ 
+14/09/2016 10:09:08 PM: The word RON and WENDY do not match the one grid space constraints.
+ 
+14/09/2016 10:10:08 PM: The word ROBERT does not match the intersec constraints.
+ 
+14/09/2016 10:10:08 PM: The word ROGER does not match the intersec constraints.
+ 
+14/09/2016 10:10:08 PM: The word MARY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:10:08 PM: The word LARRY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:10:08 PM: The word OSCAR and TOM do not match the one grid space constraints.
+ 
+14/09/2016 10:10:08 PM: The word RON and WENDY do not match the one grid space constraints.
+ 
+14/09/2016 10:15:46 PM: The word ROBERT does not match the intersec constraints.
+ 
+14/09/2016 10:15:46 PM: The word ROGER does not match the intersec constraints.
+ 
+14/09/2016 10:15:46 PM: The word MARY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:15:46 PM: The word LARRY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:15:46 PM: The word OSCAR and TOM do not match the one grid space constraints.
+ 
+14/09/2016 10:15:46 PM: The word RON and WENDY do not match the one grid space constraints.
+ 
+14/09/2016 10:20:24 PM: The word ROBERT does not match the intersec constraints.
+ 
+14/09/2016 10:20:24 PM: The word ROGER does not match the intersec constraints.
+ 
+14/09/2016 10:20:24 PM: The word MARY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:20:24 PM: The word LARRY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:20:24 PM: The word OSCAR and TOM do not match the one grid space constraints.
+ 
+14/09/2016 10:20:24 PM: The word RON and WENDY do not match the one grid space constraints.
+ 
+14/09/2016 10:26:36 PM: The word ROBERT does not match the intersec constraints.
+ 
+14/09/2016 10:26:36 PM: The word ROGER does not match the intersec constraints.
+ 
+14/09/2016 10:26:36 PM: The word MARY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:26:36 PM: The word LARRY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:26:36 PM: The word OSCAR and TOM do not match the one grid space constraints.
+ 
+14/09/2016 10:26:36 PM: The word RON and WENDY do not match the one grid space constraints.
+ 
+14/09/2016 10:28:25 PM: The word ROBERT does not match the intersec constraints.
+ 
+14/09/2016 10:28:25 PM: The word ROGER does not match the intersec constraints.
+ 
+14/09/2016 10:28:25 PM: The word MARY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:28:25 PM: The word LARRY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:28:25 PM: The word OSCAR and TOM do not match the one grid space constraints.
+ 
+14/09/2016 10:28:25 PM: The word RON and WENDY do not match the one grid space constraints.
+ 
+14/09/2016 10:37:23 PM: The word ROBERT does not match the intersec constraints.
+ 
+14/09/2016 10:37:23 PM: The word ROGER does not match the intersec constraints.
+ 
+14/09/2016 10:37:23 PM: The word MARY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:37:23 PM: The word LARRY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:37:23 PM: The word OSCAR and TOM do not match the one grid space constraints.
+ 
+14/09/2016 10:37:23 PM: The word RON and WENDY do not match the one grid space constraints.
+ 
+14/09/2016 10:44:16 PM: The word ROBERT does not match the intersec constraints.
+ 
+14/09/2016 10:44:16 PM: The word ROGER does not match the intersec constraints.
+ 
+14/09/2016 10:44:16 PM: The word MARY and SUSAN do not match the one grid space constraints.
+ 
+14/09/2016 10:44:16 PM: The word RON and WENDY do not match the one grid space constraints.
+ 
+15/09/2016 10:58:55 AM: The word JAN is duplicated in crozzle.
+ 
+15/09/2016 10:58:55 AM: The word JOHNATHON does not match the constraints.
+ 
+15/09/2016 10:58:55 AM: The word JESSICA does not match the constraints.
+ 
+15/09/2016 10:58:55 AM: The word ANGELA does not match the constraints.
+ 
+15/09/2016 11:03:05 AM: The word DREW is duplicated in crozzle.
+ 
+15/09/2016 11:03:05 AM: The word CON does not match the intersect constraints.
+ 
+15/09/2016 11:03:05 AM: The word RAY does not match the intersect constraints.
+ 
+16/09/2016 2:46:22 PM:  is an invalid input of configuration.
+ 
+16/09/2016 2:46:22 PM:   is an invalid input of configuration.
+ 
+16/09/2016 2:47:32 PM:  is an invalid input of configuration.
+ 
+16/09/2016 2:47:32 PM:   is an invalid input of configuration.
+ 
+16/09/2016 2:48:37 PM:  is an invalid input of configuration.
+ 
+16/09/2016 2:48:37 PM:   is an invalid input of configuration.
+ 
+16/09/2016 2:50:43 PM:  is an invalid input of configuration.
+ 
+16/09/2016 2:50:43 PM:   is an invalid input of configuration.
+ 
+16/09/2016 3:29:17 PM:  is an invalid input of configuration.
+ 
+16/09/2016 3:29:17 PM:   is an invalid input of configuration.
+ 
+16/09/2016 3:30:34 PM:  is an invalid input of configuration.
+ 
+16/09/2016 3:30:34 PM:   is an invalid input of configuration.
+ 
+16/09/2016 3:31:10 PM: EASY,30,10,15 is an invalid input of configuration.
+ 
+16/09/2016 3:31:11 PM: ALAN,ANGELA,BETTY,BILL,BRENDA,CHARLES,FRED,GARY,GEORGE,GRAHAM,HARRY,JACK,JESSICA,JILL,JOHNATHON,LARRY,MARK,MARY,MATTHEW,OSCAR,PAM,PETER,ROBERT,ROGER,RON,RONALD,ROSE,SUSAN,TOM,WENDY is an invalid input of configuration.
+ 
+16/09/2016 3:31:25 PM:  is an invalid input of configuration.
+ 
+16/09/2016 3:31:25 PM:   is an invalid input of configuration.
+ 
+16/09/2016 4:01:39 PM:  is an invalid input of configuration.
+ 
+16/09/2016 4:01:39 PM:   is an invalid input of configuration.
+ 
+18/09/2016 6:13:12 PM: The setting for horizontal crozzle word number  is invalid.
+ 
+18/09/2016 6:13:12 PM: The setting for horizontal crozzle word number abc is invalid
+ 
+18/09/2016 6:13:12 PM: The letter M is out of boundary.
+ 
+18/09/2016 6:13:12 PM: The letter A is out of boundary.
+ 
+18/09/2016 6:13:12 PM: The letter R is out of boundary.
+ 
+18/09/2016 6:13:12 PM: The letter Y is out of boundary.
+ 
+18/09/2016 6:13:12 PM: The letter I is out of boundary.
+ 
+18/09/2016 6:13:12 PM: The letter L is out of boundary.
+ 
+18/09/2016 6:13:12 PM: The letter L is out of boundary.
+ 
+18/09/2016 6:13:12 PM: The letter L is out of boundary.
+ 
+18/09/2016 6:13:12 PM: The letter M is out of boundary.
+ 
+18/09/2016 6:13:13 PM: The letter A is out of boundary.
+ 
+18/09/2016 6:13:13 PM: The letter R is out of boundary.
+ 
+18/09/2016 6:13:13 PM: The letter K is out of boundary.
+ 
+18/09/2016 6:13:24 PM: CROZZLELIMIT=1000 is an invalid input of configuration.
+ 
+18/09/2016 6:13:24 PM: POINTSPERWORD=:-) is an invalid input of configuration.
+ 
+18/09/2016 6:13:24 PM: INTERSECTING:A=:-) is an invalid input of configuration.
+ 
+18/09/2016 6:13:24 PM: INTERSECTING:B:-)1 is an invalid input of configuration.
+ 
+18/09/2016 6:13:24 PM: IIIIIIIIIIII:C=1 is an invalid input of configuration.
+ 
+18/09/2016 6:13:24 PM: INTERSECTINGD=1 is an invalid input of configuration.
+ 
+18/09/2016 6:13:24 PM: INTERSECTING:=1 is an invalid input of configuration.
+ 
+18/09/2016 6:13:24 PM: INTERSECTING:F1 is an invalid input of configuration.
+ 
+18/09/2016 6:13:24 PM: :G=1 is an invalid input of configuration.
+ 
+18/09/2016 6:13:24 PM: INTERSECTING:H=XXXXXXXXXX is an invalid input of configuration.
+ 
+18/09/2016 6:13:28 PM: The difficulty of crozzle should be "EASY" or "MEDIUM" or "HARD".
+ 
+18/09/2016 6:13:28 PM: Word number should be more than 10(inclusive) and less than 1000(inclusive).
+ 
+18/09/2016 6:13:28 PM: The size of crozzle should be 4*8 at least and 400*800 at most.
+ 
+18/09/2016 6:13:28 PM: The word ********** does not belong to the word list.
+ 
+18/09/2016 6:13:28 PM: The word MARK does not belong to the word list.
+ 
+18/09/2016 6:13:28 PM: The word WENDY does not belong to the word list.
+ 
+18/09/2016 6:13:28 PM: The word JILL is duplicated in crozzle.
+ 
+18/09/2016 6:13:28 PM: The  Orientation of ********** should be "HORIZONTAL" or "VERTICAL"
+ 
+18/09/2016 6:13:28 PM: The  Orientation of WENDY should be "HORIZONTAL" or "VERTICAL"
+ 
+18/09/2016 6:13:28 PM: The number of horizontal word is 3, but the setted horizontal word number is 0.
+ 
+18/09/2016 6:13:28 PM: The number of vertical word is 3, but the setted vertical word number is 0
+ 
+18/09/2016 6:13:28 PM: Crozzle Group Limit can not be 0.
+ 
+18/09/2016 6:13:28 PM: There is no setting for intersect letter A in configuration.
+ 
+18/09/2016 6:13:28 PM: There is no setting for intersect letter B in configuration.
+ 
+18/09/2016 6:13:28 PM: There is no setting for intersect letter C in configuration.
+ 
+18/09/2016 6:13:28 PM: There is no setting for intersect letter D in configuration.
+ 
+18/09/2016 6:13:28 PM: There is no setting for intersect letter E in configuration.
+ 
+18/09/2016 6:13:28 PM: There is no setting for intersect letter F in configuration.
+ 
+18/09/2016 6:13:28 PM: There is no setting for intersect letter G in configuration.
+ 
+18/09/2016 6:13:28 PM: There is no setting for intersect letter H in configuration.
+ 
+19/09/2016 3:43:42 PM: The letter Y is out of boundary.
+ 
+19/09/2016 3:43:42 PM: The letter R is out of boundary.
+ 
+19/09/2016 3:43:42 PM: The letter W is out of boundary.
+ 
+19/09/2016 3:43:42 PM: The letter E is out of boundary.
+ 
+19/09/2016 3:43:42 PM: The letter N is out of boundary.
+ 
+19/09/2016 3:43:42 PM: The letter D is out of boundary.
+ 
+19/09/2016 3:43:42 PM: The letter Y is out of boundary.
+ 
+19/09/2016 3:45:27 PM: The letter Y is out of boundary.
+ 
+19/09/2016 3:45:27 PM: The letter R is out of boundary.
+ 
+19/09/2016 3:45:27 PM: The letter W is out of boundary.
+ 
+19/09/2016 3:45:27 PM: The letter E is out of boundary.
+ 
+19/09/2016 3:45:27 PM: The letter N is out of boundary.
+ 
+19/09/2016 3:45:27 PM: The letter D is out of boundary.
+ 
+19/09/2016 3:45:27 PM: The letter Y is out of boundary.
+ 
+19/09/2016 3:46:31 PM: The Letter R which belong to the word LARRY is out of board.
+ 
+19/09/2016 3:46:31 PM: The letter Y is out of boundary.
+ 
+19/09/2016 3:46:31 PM: The Letter J which belong to the word JACK is out of board.
+ 
+19/09/2016 3:46:31 PM: The Letter A which belong to the word JACK is out of board.
+ 
+19/09/2016 3:46:32 PM: The Letter C which belong to the word JACK is out of board.
+ 
+19/09/2016 3:46:32 PM: The Letter K which belong to the word JACK is out of board.
+ 
+19/09/2016 3:46:32 PM: The Letter A which belong to the word JESSICA is out of board.
+ 
+19/09/2016 3:46:32 PM: The Letter K which belong to the word MARK is out of board.
+ 
+19/09/2016 3:46:32 PM: The Letter E which belong to the word ROGER is out of board.
+ 
+19/09/2016 3:46:32 PM: The letter R is out of boundary.
+ 
+19/09/2016 3:46:32 PM: The letter W is out of boundary.
+ 
+19/09/2016 3:46:32 PM: The letter E is out of boundary.
+ 
+19/09/2016 3:46:32 PM: The letter N is out of boundary.
+ 
+19/09/2016 3:46:32 PM: The letter D is out of boundary.
+ 
+19/09/2016 3:46:32 PM: The letter Y is out of boundary.
+ 
+19/09/2016 3:48:49 PM: The letter Y is out of boundary.
+ 
+19/09/2016 3:48:50 PM: The letter R is out of boundary.
+ 
+19/09/2016 3:48:50 PM: The letter W is out of boundary.
+ 
+19/09/2016 3:48:50 PM: The letter E is out of boundary.
+ 
+19/09/2016 3:48:50 PM: The letter N is out of boundary.
+ 
+19/09/2016 3:48:50 PM: The letter D is out of boundary.
+ 
+19/09/2016 3:48:50 PM: The letter Y is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter R is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter Y is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter J is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter A is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter C is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter K is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter A is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter K is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter E is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter R is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter W is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter E is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter N is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter D is out of boundary.
+ 
+19/09/2016 3:49:25 PM: The letter Y is out of boundary.
+ 
+19/09/2016 3:54:21 PM: The letter Y is out of boundary.
+ 
+19/09/2016 3:54:22 PM: The letter R is out of boundary.
+ 
+19/09/2016 3:54:22 PM: The letter W is out of boundary.
+ 
+19/09/2016 3:54:22 PM: The letter E is out of boundary.
+ 
+19/09/2016 3:54:22 PM: The letter N is out of boundary.
+ 
+19/09/2016 3:54:22 PM: The letter D is out of boundary.
+ 
+19/09/2016 3:54:22 PM: The letter Y is out of boundary.
+ 
+19/09/2016 7:51:40 PM:  is an invalid input of configuration.
+ 
+19/09/2016 7:51:41 PM:   is an invalid input of configuration.
+ 
+19/09/2016 7:56:29 PM:  is an invalid input of configuration.
+ 
+19/09/2016 7:56:29 PM:   is an invalid input of configuration.
+ 
+19/09/2016 8:00:27 PM:  is an invalid input of configuration.
+ 
+19/09/2016 8:00:27 PM:   is an invalid input of configuration.
+ 
+19/09/2016 8:19:40 PM:  is an invalid input of configuration.
+ 
+19/09/2016 8:19:42 PM:   is an invalid input of configuration.
+ 
+19/09/2016 8:21:31 PM:  is an invalid input of configuration.
+ 
+19/09/2016 8:21:31 PM:   is an invalid input of configuration.
+ 
+19/09/2016 8:29:12 PM:  is an invalid input of configuration.
+ 
+19/09/2016 8:29:12 PM:   is an invalid input of configuration.
+ 
+19/09/2016 8:31:52 PM: EASY,30,10,15 is an invalid input of configuration.
+ 
+19/09/2016 8:31:52 PM: ALAN,ANGELA,BETTY,BILL,BRENDA,CHARLES,FRED,GARY,GEORGE,GRAHAM,HARRY,JACK,JESSICA,JILL,JOHNATHON,LARRY,MARK,MARY,MATTHEW,OSCAR,PAM,PETER,ROBERT,ROGER,RON,RONALD,ROSE,SUSAN,TOM,WENDY is an invalid input of configuration.
+ 
+19/09/2016 8:32:02 PM:  is an invalid input of configuration.
+ 
+19/09/2016 8:32:02 PM:   is an invalid input of configuration.
+ 
+19/09/2016 8:35:00 PM:  is an invalid input of configuration.
+ 
+19/09/2016 8:35:00 PM:   is an invalid input of configuration.
+ 
+19/09/2016 8:39:24 PM:  is an invalid input of configuration.
+ 
+19/09/2016 8:39:24 PM:   is an invalid input of configuration.
+ 
+24/09/2016 7:47:54 PM:  is an invalid input of configuration.
+ 
+24/09/2016 7:47:54 PM:   is an invalid input of configuration.
+ 
+24/09/2016 8:00:33 PM:  is an invalid input of configuration.
+ 
+24/09/2016 8:00:33 PM:   is an invalid input of configuration.
+ 
+24/09/2016 8:02:26 PM:  is an invalid input of configuration.
+ 
+24/09/2016 8:02:26 PM:   is an invalid input of configuration.
+ 
+24/09/2016 8:07:07 PM:  is an invalid input of configuration.
+ 
+24/09/2016 8:07:07 PM:   is an invalid input of configuration.
+ 
+24/09/2016 8:12:56 PM:  is an invalid input of configuration.
+ 
+24/09/2016 8:12:56 PM:   is an invalid input of configuration.
+ 
+24/09/2016 8:14:44 PM:  is an invalid input of configuration.
+ 
+24/09/2016 8:14:44 PM:   is an invalid input of configuration.
+ 
+24/09/2016 8:24:29 PM:  is an invalid input of configuration.
+ 
+24/09/2016 8:24:29 PM:   is an invalid input of configuration.
+ 
+24/09/2016 8:25:32 PM:  is an invalid input of configuration.
+ 
+24/09/2016 8:25:32 PM:   is an invalid input of configuration.
+ 
+24/09/2016 8:48:11 PM:  is an invalid input of configuration.
+ 
+24/09/2016 8:48:11 PM:   is an invalid input of configuration.
+ 
+24/09/2016 8:50:22 PM:  is an invalid input of configuration.
+ 
+24/09/2016 8:50:22 PM:   is an invalid input of configuration.
+ 
+24/09/2016 8:51:49 PM:  is an invalid input of configuration.
+ 
+24/09/2016 8:51:49 PM:   is an invalid input of configuration.
+ 
+24/09/2016 8:54:18 PM:  is an invalid input of configuration.
+ 
+24/09/2016 8:54:18 PM:   is an invalid input of configuration.
+ 
+24/09/2016 8:54:45 PM:  is an invalid input of configuration.
+ 
+24/09/2016 8:54:45 PM:   is an invalid input of configuration.
+ 
+24/09/2016 8:59:22 PM:  is an invalid input of configuration.
+ 
+24/09/2016 8:59:26 PM:   is an invalid input of configuration.
+ 
+24/09/2016 9:02:23 PM:  is an invalid input of configuration.
+ 
+24/09/2016 9:02:23 PM:   is an invalid input of configuration.
+ 
+24/09/2016 9:04:55 PM:  is an invalid input of configuration.
+ 
+24/09/2016 9:04:55 PM:   is an invalid input of configuration.
+ 
+24/09/2016 9:17:14 PM:  is an invalid input of configuration.
+ 
+24/09/2016 9:17:14 PM:   is an invalid input of configuration.
+ 
+24/09/2016 9:28:57 PM:  is an invalid input of configuration.
+ 
+24/09/2016 9:28:57 PM:   is an invalid input of configuration.
+ 
+24/09/2016 9:51:28 PM:  is an invalid input of configuration.
+ 
+24/09/2016 9:51:28 PM:   is an invalid input of configuration.
+ 
+24/09/2016 9:51:50 PM:  is an invalid input of configuration.
+ 
+24/09/2016 9:51:50 PM:   is an invalid input of configuration.
+ 
+24/09/2016 10:03:36 PM:  is an invalid input of configuration.
+ 
+24/09/2016 10:03:36 PM:   is an invalid input of configuration.
+ 
+24/09/2016 10:10:19 PM:  is an invalid input of configuration.
+ 
+24/09/2016 10:10:19 PM:   is an invalid input of configuration.
+ 
+24/09/2016 10:25:46 PM:  is an invalid input of configuration.
+ 
+24/09/2016 10:25:46 PM:   is an invalid input of configuration.
+ 
+24/09/2016 10:27:30 PM:  is an invalid input of configuration.
+ 
+24/09/2016 10:27:31 PM:   is an invalid input of configuration.
+ 
+24/09/2016 10:33:43 PM:  is an invalid input of configuration.
+ 
+24/09/2016 10:33:43 PM:   is an invalid input of configuration.
+ 
+24/09/2016 10:38:36 PM:  is an invalid input of configuration.
+ 
+24/09/2016 10:38:36 PM:   is an invalid input of configuration.
+ 
+24/09/2016 10:40:36 PM:  is an invalid input of configuration.
+ 
+24/09/2016 10:40:36 PM:   is an invalid input of configuration.
+ 
+24/09/2016 10:42:55 PM:  is an invalid input of configuration.
+ 
+24/09/2016 10:42:55 PM:   is an invalid input of configuration.
+ 
+2016/9/28 12:08:05: EASY,30,10,15 is an invalid input of configuration.
+ 
+2016/9/28 12:08:05: ALAN,ANGELA,BETTY,BILL,BRENDA,CHARLES,FRED,GARY,GEORGE,GRAHAM,HARRY,JACK,JESSICA,JILL,JOHNATHON,LARRY,MARK,MARY,MATTHEW,OSCAR,PAM,PETER,ROBERT,ROGER,RON,RONALD,ROSE,SUSAN,TOM,WENDY is an invalid input of configuration.
+ 
+2016/9/28 12:10:32: EASY,30,10,15 is an invalid input of configuration.
+ 
+2016/9/28 12:10:32: ALAN,ANGELA,BETTY,BILL,BRENDA,CHARLES,FRED,GARY,GEORGE,GRAHAM,HARRY,JACK,JESSICA,JILL,JOHNATHON,LARRY,MARK,MARY,MATTHEW,OSCAR,PAM,PETER,ROBERT,ROGER,RON,RONALD,ROSE,SUSAN,TOM,WENDY is an invalid input of configuration.
+ 
+2016/9/29 10:43:49: MEDIUM,300,10,10,0,0 is an invalid input of configuration.
+ 
+2016/9/29 10:43:49: AARON,AL,ALAN,ALEX,ALI,AMY,ANDREW,ANN,ARJUN,ARMANI,ARMIDA,ARTHUR,ARVIL,ARYANA,ASHELY,ASHLEA,ASHLEE,ASHLEY,ASHLIE,ASHLYN,ASHTON,ASHTYN,ASTRID,ATHENA,AUBREE,AUBREY,AUBRIE,AUDREY,AURORA,AURORE,AUSTIN,AXL,AYDEN,BELINDA,BEN,BETTY,BEV,BEVERLEY,BILL,BLAZE,BOB,BOBBY,BORIS,BRENDA,BRIGGS,BRODIE,BROGAN,BROOKS,BRUNO,BRYANT,BRYCEN,BRYSEN,BRYSON,BRYTON,BUDDIE,BUFORD,BURLEY,BURNEY,BURNIE,BURREL,BURTON,BUSTER,BUTLER,BYNUM,CAESAR,CAIDEN,CALLAN,CAM,CARA,CHAZ,CLIVE,CON,CONNOR,CONWAY,CRUZ,DALE,DAN,DAVE,DAVID,DAVY,DAWN,DAYANA,DEANNA,DEANNE,DEASIA,DEBBIE,DEBBRA,DEBERA,DEBORA,DEBRAH,DEEANN,DEEDEE,DEETTA,DEIDRA,DEIDRE,DELCIE,DELIAH,DELILA,DELINA,DELISA,DELLAR,DELLIA,DELLIE,DELOIS,DELORA,DELPHA,DELSIE,DENNIS,DENZIL,DOM,DON,DOT,DREW,ED,EDDY,EDITH,EDWARD,ELIZABETH,ELVIS,EMMA,ENZO,ERICA,ERLENE,ERLINE,ERMINA,ERMINE,ERNEST,ERYKAH,ESTELA,ESTELL,ESTHER,ETHYLE,EUDORA,EUGENE,EUNICE,EVA,EVALYN,EVAN,EVELIN,EVELYN,EVERLY,EVETTE,EVONNE,EZZARD,FALLON,FANNIE,FANNYE,FARRAH,FATIMA,FAWN,FELICE,FELIPA,FINLEY,FRED,GARY,GIOVANNY,GLENDA,GRAHAM,GWEN,GWYN,HARVY,HOWARD,HUXLEY,IAN,IVA,IVAN,IVON,IZA,JACK,JAKE,JAQUELINE,JILL,JO,JUDY,KARL,KAY,KAYLAH,KAYLAN,KAYLEE,KAYLEN,KAYNE,KELVIN,KEVIN,LE,LEO,LEON,LES,LEWIS,LILA,LIZ,LOC,LOU,LU,LUCILE,LULU,MADALYNN,MAL,MARGARET,MARK,MARY,MATHEW,MATTHEW,MAVIS,MAY,MICHELLE,MITZI,MURRAY,NAOMI,NED,NOE,NOEL,OLIVE,OMAR,ORAN,OSCAR,OWEN,OWENS,OZZIE,PAM,PENELOPE,PENNY,PETER,PHEBE,QUINCY,QUINTY,RACHELLE,RAE,RAY,REMY,RENTON,REX,RICHARD,ROBERT,ROD,ROGER,RON,ROWAN,ROY,ROZY,RYLEY,SALLY,SAM,SARAH,SHELDON,SOPHIE,STEPHEN,STEVE,STEVEN,SUE,SUZY,SYLVIA,TAMMY,TED,TERRY,TIMOTHY,TOBY,TODD,TOM,TRACEY,TREVOR,TY,TYRIANNE,VELVET,VERA,VELDA,VIC,VICK,VICKY,VICTOR,WADE,WALLY,WALT,WENDY,WES,WESLEY,WHITNEY,WILL,WILLY,WILMA,WYNNIE,XAVIER,XENA,XIA,XIANG,YEE,YOEL,YOKO,YOLANDA,YORK,ZACH,ZACK,ZARA,ZELIA,ZENA,ZETA,ZEUS,ZILI,ZOLA,ZORBA,ZUZANNY is an invalid input of configuration.
+ 
+2016/9/29 10:44:03: MEDIUM,300,10,10,0,0 is an invalid input of configuration.
+ 
+2016/9/29 10:44:03: AARON,AL,ALAN,ALEX,ALI,AMY,ANDREW,ANN,ARJUN,ARMANI,ARMIDA,ARTHUR,ARVIL,ARYANA,ASHELY,ASHLEA,ASHLEE,ASHLEY,ASHLIE,ASHLYN,ASHTON,ASHTYN,ASTRID,ATHENA,AUBREE,AUBREY,AUBRIE,AUDREY,AURORA,AURORE,AUSTIN,AXL,AYDEN,BELINDA,BEN,BETTY,BEV,BEVERLEY,BILL,BLAZE,BOB,BOBBY,BORIS,BRENDA,BRIGGS,BRODIE,BROGAN,BROOKS,BRUNO,BRYANT,BRYCEN,BRYSEN,BRYSON,BRYTON,BUDDIE,BUFORD,BURLEY,BURNEY,BURNIE,BURREL,BURTON,BUSTER,BUTLER,BYNUM,CAESAR,CAIDEN,CALLAN,CAM,CARA,CHAZ,CLIVE,CON,CONNOR,CONWAY,CRUZ,DALE,DAN,DAVE,DAVID,DAVY,DAWN,DAYANA,DEANNA,DEANNE,DEASIA,DEBBIE,DEBBRA,DEBERA,DEBORA,DEBRAH,DEEANN,DEEDEE,DEETTA,DEIDRA,DEIDRE,DELCIE,DELIAH,DELILA,DELINA,DELISA,DELLAR,DELLIA,DELLIE,DELOIS,DELORA,DELPHA,DELSIE,DENNIS,DENZIL,DOM,DON,DOT,DREW,ED,EDDY,EDITH,EDWARD,ELIZABETH,ELVIS,EMMA,ENZO,ERICA,ERLENE,ERLINE,ERMINA,ERMINE,ERNEST,ERYKAH,ESTELA,ESTELL,ESTHER,ETHYLE,EUDORA,EUGENE,EUNICE,EVA,EVALYN,EVAN,EVELIN,EVELYN,EVERLY,EVETTE,EVONNE,EZZARD,FALLON,FANNIE,FANNYE,FARRAH,FATIMA,FAWN,FELICE,FELIPA,FINLEY,FRED,GARY,GIOVANNY,GLENDA,GRAHAM,GWEN,GWYN,HARVY,HOWARD,HUXLEY,IAN,IVA,IVAN,IVON,IZA,JACK,JAKE,JAQUELINE,JILL,JO,JUDY,KARL,KAY,KAYLAH,KAYLAN,KAYLEE,KAYLEN,KAYNE,KELVIN,KEVIN,LE,LEO,LEON,LES,LEWIS,LILA,LIZ,LOC,LOU,LU,LUCILE,LULU,MADALYNN,MAL,MARGARET,MARK,MARY,MATHEW,MATTHEW,MAVIS,MAY,MICHELLE,MITZI,MURRAY,NAOMI,NED,NOE,NOEL,OLIVE,OMAR,ORAN,OSCAR,OWEN,OWENS,OZZIE,PAM,PENELOPE,PENNY,PETER,PHEBE,QUINCY,QUINTY,RACHELLE,RAE,RAY,REMY,RENTON,REX,RICHARD,ROBERT,ROD,ROGER,RON,ROWAN,ROY,ROZY,RYLEY,SALLY,SAM,SARAH,SHELDON,SOPHIE,STEPHEN,STEVE,STEVEN,SUE,SUZY,SYLVIA,TAMMY,TED,TERRY,TIMOTHY,TOBY,TODD,TOM,TRACEY,TREVOR,TY,TYRIANNE,VELVET,VERA,VELDA,VIC,VICK,VICKY,VICTOR,WADE,WALLY,WALT,WENDY,WES,WESLEY,WHITNEY,WILL,WILLY,WILMA,WYNNIE,XAVIER,XENA,XIA,XIANG,YEE,YOEL,YOKO,YOLANDA,YORK,ZACH,ZACK,ZARA,ZELIA,ZENA,ZETA,ZEUS,ZILI,ZOLA,ZORBA,ZUZANNY is an invalid input of configuration.
+ 
+2016/9/30 21:39:46: EASY,200,10,10,0,0 is an invalid input of configuration.
+ 
+2016/9/30 21:39:46: AARON,AL,ALAN,ALEXANDRA,ALI,AMY,ANDREW,ANN,ANTHONY,AXL,AYDEN,BELINDA,BEN,BETTY,BEV,BEVERLEY,BILL,BLAZE,BOB,BOBBY,BORIS,BRENDA,BRUNO,BYNUM,CAM,CATHERINE,CHAZ,CLIVE,CON,CONNOR,CONWAY,CRUZ,DALE,DAN,DAVE,DAVID,DAVY,DAWN,DENNIS,DENZIL,DOM,DON,DREMA,DREW,ED,EDDY,EDITH,EDWARD,ELIZABET,ELVIS,EMMA,ENZO,ERICA,EVA,EVAN,EZZARD,FAWN,FRED,GARY,GIOVANNY,GLENDA,GRAHAM,GWEN,GWYN,HOPE,HUEY,HUXLEY,IAN,ISA,IVAN,IVON,IZA,JACK,JAKE,JAQUELINE,JILL,JIM,JOHN,KARL,KAY,KAYNE,KELVIN,KEVIN,LE,LEO,LEON,LES,LEWIS,LILA,LIZ,LOC,LOU,LU,LUCILE,LULU,MADALYNN,MAL,MARGARET,MARK,MARY,MATHEW,MATTHEW,MAVIS,MAY,MICHELLE,MITZI,MURRAY,NED,NEIL,NOE,NOEL,OLIVE,OMAR,ORAN,OSCAR,OWEN,OWENS,OZZIE,PAM,PENELOPE,PENNY,PETER,PHEBE,QUINCY,QUINTY,RACHELLE,RAS,RAY,REMI,RENTON,REX,RICHARD,ROBERT,ROD,ROGER,RON,ROWAN,ROY,ROZY,RYDER,SALLY,SAM,SARAH,SHELDON,SPENCER,STEPHEN,STEVE,STEVEN,SUE,SUZY,SYLVIA,TAMMY,TEDDY,TERRY,TIMOTHY,TOBY,TODD,TOM,TRACEY,TREVOR,TY,TYRIANNE,VELVET,VERA,VERN,VIC,VICK,VICKY,VICTOR,WADE,WALLY,WALT,WENDY,WES,WESLEY,WHITNEY,WILL,WILLY,WILMA,WYNNIE,XAVIER,XENA,XIA,XIANG,YEE,YOEL,YOKO,YOLANDA,YOSEF,ZACH,ZACK,ZARA,ZELDA,ZENA,ZETA,ZEUS,ZILI,ZOLA,ZORBA,ZUZANNY is an invalid input of configuration.
+ 
+2016/9/30 21:49:42: EASY,200,10,10,0,0 is an invalid input of configuration.
+ 
+2016/9/30 21:49:42: AARON,AL,ALAN,ALEXANDRA,ALI,AMY,ANDREW,ANN,ANTHONY,AXL,AYDEN,BELINDA,BEN,BETTY,BEV,BEVERLEY,BILL,BLAZE,BOB,BOBBY,BORIS,BRENDA,BRUNO,BYNUM,CAM,CATHERINE,CHAZ,CLIVE,CON,CONNOR,CONWAY,CRUZ,DALE,DAN,DAVE,DAVID,DAVY,DAWN,DENNIS,DENZIL,DOM,DON,DREMA,DREW,ED,EDDY,EDITH,EDWARD,ELIZABET,ELVIS,EMMA,ENZO,ERICA,EVA,EVAN,EZZARD,FAWN,FRED,GARY,GIOVANNY,GLENDA,GRAHAM,GWEN,GWYN,HOPE,HUEY,HUXLEY,IAN,ISA,IVAN,IVON,IZA,JACK,JAKE,JAQUELINE,JILL,JIM,JOHN,KARL,KAY,KAYNE,KELVIN,KEVIN,LE,LEO,LEON,LES,LEWIS,LILA,LIZ,LOC,LOU,LU,LUCILE,LULU,MADALYNN,MAL,MARGARET,MARK,MARY,MATHEW,MATTHEW,MAVIS,MAY,MICHELLE,MITZI,MURRAY,NED,NEIL,NOE,NOEL,OLIVE,OMAR,ORAN,OSCAR,OWEN,OWENS,OZZIE,PAM,PENELOPE,PENNY,PETER,PHEBE,QUINCY,QUINTY,RACHELLE,RAS,RAY,REMI,RENTON,REX,RICHARD,ROBERT,ROD,ROGER,RON,ROWAN,ROY,ROZY,RYDER,SALLY,SAM,SARAH,SHELDON,SPENCER,STEPHEN,STEVE,STEVEN,SUE,SUZY,SYLVIA,TAMMY,TEDDY,TERRY,TIMOTHY,TOBY,TODD,TOM,TRACEY,TREVOR,TY,TYRIANNE,VELVET,VERA,VERN,VIC,VICK,VICKY,VICTOR,WADE,WALLY,WALT,WENDY,WES,WESLEY,WHITNEY,WILL,WILLY,WILMA,WYNNIE,XAVIER,XENA,XIA,XIANG,YEE,YOEL,YOKO,YOLANDA,YOSEF,ZACH,ZACK,ZARA,ZELDA,ZENA,ZETA,ZEUS,ZILI,ZOLA,ZORBA,ZUZANNY is an invalid input of configuration.
+ 
+2016/9/30 21:49:42: Crozzle Group Limit can not be 0.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter A in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter A in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter B in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter B in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter C in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter C in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter D in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter D in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter E in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter E in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter F in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter F in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter G in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter G in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter H in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter H in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter I in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter I in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter J in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter J in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter K in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter K in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter L in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter L in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter M in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter M in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter N in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter N in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter O in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter O in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter P in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter P in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter Q in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter Q in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter R in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter R in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter S in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter S in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter T in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter T in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter U in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter U in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter V in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter V in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter W in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter W in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter X in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter X in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter Y in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter Y in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for intersect letter Z in configuration.
+ 
+2016/9/30 21:49:42: There is no setting for nonintersect letter Z in configuration.
+ 
+2016/9/30 21:51:53: The setting for horizontal crozzle word number  is invalid.
+ 
+2016/9/30 21:51:53: The setting for horizontal crozzle word number abc is invalid
+ 
+2016/9/30 21:51:53: The letter M is out of boundary.
+ 
+2016/9/30 21:51:53: The letter A is out of boundary.
+ 
+2016/9/30 21:51:53: The letter R is out of boundary.
+ 
+2016/9/30 21:51:53: The letter Y is out of boundary.
+ 
+2016/9/30 21:51:53: The letter I is out of boundary.
+ 
+2016/9/30 21:51:53: The letter L is out of boundary.
+ 
+2016/9/30 21:51:53: The letter L is out of boundary.
+ 
+2016/9/30 21:51:53: The letter L is out of boundary.
+ 
+2016/9/30 21:51:53: The letter M is out of boundary.
+ 
+2016/9/30 21:51:53: The letter A is out of boundary.
+ 
+2016/9/30 21:51:53: The letter R is out of boundary.
+ 
+2016/9/30 21:51:53: The letter K is out of boundary.
+ 
+2016/9/30 21:51:53: The difficulty of crozzle should be "EASY" or "MEDIUM" or "HARD".
+ 
+2016/9/30 21:51:53: Word number should be more than 10(inclusive) and less than 1000(inclusive).
+ 
+2016/9/30 21:51:53: The size of crozzle should be 4*8 at least and 400*800 at most.
+ 
+2016/9/30 21:51:53: The word ********** does not belong to the word list.
+ 
+2016/9/30 21:51:53: The word MARK does not belong to the word list.
+ 
+2016/9/30 21:51:53: The word WENDY does not belong to the word list.
+ 
+2016/9/30 21:51:53: The word JILL is duplicated in crozzle.
+ 
+2016/9/30 21:51:53: The  Orientation of ********** should be "HORIZONTAL" or "VERTICAL"
+ 
+2016/9/30 21:51:53: The  Orientation of WENDY should be "HORIZONTAL" or "VERTICAL"
+ 
+2016/9/30 21:51:53: The number of horizontal word is 3, but the setted horizontal word number is 0.
+ 
+2016/9/30 21:51:53: The number of vertical word is 3, but the setted vertical word number is 0
+ 
+2016/9/30 21:55:24: EASY,30,10,15,7,7 is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: ALAN,ANGELA,BETTY,BILL,BRENDA,CHARLES,FRED,GARY,GEORGE,GRAHAM,HARRY,JACK,JESSICA,JILL,JOHNATHON,LARRY,MARK,MARY,MATTHEW,OSCAR,PAM,PETER,ROBERT,ROGER,RON,RONALD,ROSE,SUSAN,TOM,WENDY is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: HORIZONTAL,1,2,ROBERT is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: HORIZONTAL,2,9,OSCAR is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: HORIZONTAL,3,2,JILL is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: HORIZONTAL,6,4,MARY is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: HORIZONTAL,6,11,LARRY is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: HORIZONTAL,8,6,GARY is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: HORIZONTAL,9,1,JACK is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: VERTICAL,3,2,JESSICA is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: VERTICAL,1,4,BILL is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: VERTICAL,6,4,MARK is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: VERTICAL,6,6,ROGER is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: VERTICAL,4,9,HARRY is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: VERTICAL,2,11,CHARLES is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: VERTICAL,2,15,WENDY is an invalid input of configuration.
+ 
+2016/9/30 21:55:24: Crozzle Group Limit can not be 0.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter A in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter A in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter B in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter B in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter C in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter C in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter D in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter D in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter E in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter E in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter F in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter F in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter G in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter G in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter H in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter H in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter I in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter I in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter J in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter J in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter K in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter K in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter L in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter L in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter M in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter M in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter N in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter N in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter O in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter O in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter P in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter P in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter Q in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter Q in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter R in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter R in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter S in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter S in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter T in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter T in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter U in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter U in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter V in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter V in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter W in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter W in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter X in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter X in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter Y in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter Y in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for intersect letter Z in configuration.
+ 
+2016/9/30 21:55:24: There is no setting for nonintersect letter Z in configuration.
+ 
+2016/10/1 11:51:06: CROZZLELIMIT=1000 is an invalid input of configuration.
+ 
+2016/10/1 11:51:06: POINTSPERWORD=:-) is an invalid input of configuration.
+ 
+2016/10/1 11:51:06: INTERSECTING:A=:-) is an invalid input of configuration.
+ 
+2016/10/1 11:51:06: INTERSECTING:B:-)1 is an invalid input of configuration.
+ 
+2016/10/1 11:51:06: IIIIIIIIIIII:C=1 is an invalid input of configuration.
+ 
+2016/10/1 11:51:06: INTERSECTINGD=1 is an invalid input of configuration.
+ 
+2016/10/1 11:51:06: INTERSECTING:=1 is an invalid input of configuration.
+ 
+2016/10/1 11:51:06: INTERSECTING:F1 is an invalid input of configuration.
+ 
+2016/10/1 11:51:06: :G=1 is an invalid input of configuration.
+ 
+2016/10/1 11:51:06: INTERSECTING:H=XXXXXXXXXX is an invalid input of configuration.
+ 
+2016/10/1 11:51:06: Crozzle Group Limit can not be 0.
+ 
+2016/10/1 11:51:06: There is no setting for intersect letter A in configuration.
+ 
+2016/10/1 11:51:06: There is no setting for intersect letter B in configuration.
+ 
+2016/10/1 11:51:06: There is no setting for intersect letter C in configuration.
+ 
+2016/10/1 11:51:06: There is no setting for intersect letter D in configuration.
+ 
+2016/10/1 11:51:06: There is no setting for intersect letter E in configuration.
+ 
+2016/10/1 11:51:06: There is no setting for intersect letter F in configuration.
+ 
+2016/10/1 11:51:06: There is no setting for intersect letter G in configuration.
+ 
+2016/10/1 11:51:06: There is no setting for intersect letter H in configuration.
+ 
+2016/10/1 11:54:18: NOVICE,9,3,15,,abc,xyz is an invalid input of configuration.
+ 
+2016/10/1 11:54:18: BILL,GARY,JILL,,MARY,OSCAR,ROBERT,:-) is an invalid input of configuration.
+ 
+2016/10/1 11:54:18: HORIZONTAL,1,2,ROBERT is an invalid input of configuration.
+ 
+2016/10/1 11:54:18: HORIZONTAL,3,2,JILL is an invalid input of configuration.
+ 
+2016/10/1 11:54:18: HORIZONTAL,6,4,MARY is an invalid input of configuration.
+ 
+2016/10/1 11:54:18: HHHHHHHHHH,0,99,********** is an invalid input of configuration.
+ 
+2016/10/1 11:54:18: VERTICAL,3,2,JILL is an invalid input of configuration.
+ 
+2016/10/1 11:54:18: VERTICAL,1,4,BILL is an invalid input of configuration.
+ 
+2016/10/1 11:54:18: VERTICAL,6,4,MARK is an invalid input of configuration.
+ 
+2016/10/1 11:54:18: VVVVVVVV,2,15,WENDY is an invalid input of configuration.
+ 
+2016/10/1 11:54:18: Crozzle Group Limit can not be 0.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter A in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter A in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter B in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter B in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter C in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter C in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter D in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter D in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter E in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter E in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter F in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter F in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter G in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter G in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter H in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter H in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter I in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter I in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter J in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter J in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter K in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter K in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter L in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter L in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter M in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter M in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter N in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter N in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter O in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter O in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter P in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter P in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter Q in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter Q in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter R in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter R in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter S in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter S in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter T in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter T in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter U in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter U in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter V in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter V in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter W in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter W in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter X in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter X in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter Y in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter Y in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for intersect letter Z in configuration.
+ 
+2016/10/1 11:54:18: There is no setting for nonintersect letter Z in configuration.
+ 
+2016/10/1 11:54:34: CROZZLELIMIT=1000 is an invalid input of configuration.
+ 
+2016/10/1 11:54:34: POINTSPERWORD=:-) is an invalid input of configuration.
+ 
+2016/10/1 11:54:34: INTERSECTING:A=:-) is an invalid input of configuration.
+ 
+2016/10/1 11:54:34: INTERSECTING:B:-)1 is an invalid input of configuration.
+ 
+2016/10/1 11:54:34: IIIIIIIIIIII:C=1 is an invalid input of configuration.
+ 
+2016/10/1 11:54:34: INTERSECTINGD=1 is an invalid input of configuration.
+ 
+2016/10/1 11:54:34: INTERSECTING:=1 is an invalid input of configuration.
+ 
+2016/10/1 11:54:34: INTERSECTING:F1 is an invalid input of configuration.
+ 
+2016/10/1 11:54:34: :G=1 is an invalid input of configuration.
+ 
+2016/10/1 11:54:34: INTERSECTING:H=XXXXXXXXXX is an invalid input of configuration.
+ 
+2016/10/1 11:54:34: Crozzle Group Limit can not be 0.
+ 
+2016/10/1 11:54:34: There is no setting for intersect letter A in configuration.
+ 
+2016/10/1 11:54:34: There is no setting for intersect letter B in configuration.
+ 
+2016/10/1 11:54:34: There is no setting for intersect letter C in configuration.
+ 
+2016/10/1 11:54:34: There is no setting for intersect letter D in configuration.
+ 
+2016/10/1 11:54:34: There is no setting for intersect letter E in configuration.
+ 
+2016/10/1 11:54:34: There is no setting for intersect letter F in configuration.
+ 
+2016/10/1 11:54:34: There is no setting for intersect letter G in configuration.
+ 
+2016/10/1 11:54:34: There is no setting for intersect letter H in configuration.
+ 
+2016/10/1 11:54:47: Crozzle Group Limit can not be 0.
+ 
+2016/10/1 11:54:47: There is no setting for intersect letter A in configuration.
+ 
+2016/10/1 11:54:47: There is no setting for intersect letter B in configuration.
+ 
+2016/10/1 11:54:47: There is no setting for intersect letter C in configuration.
+ 
+2016/10/1 11:54:47: There is no setting for intersect letter D in configuration.
+ 
+2016/10/1 11:54:47: There is no setting for intersect letter E in configuration.
+ 
+2016/10/1 11:54:47: There is no setting for intersect letter F in configuration.
+ 
+2016/10/1 11:54:47: There is no setting for intersect letter G in configuration.
+ 
+2016/10/1 11:54:47: There is no setting for intersect letter H in configuration.
+ 
+2016/10/1 11:54:48: Crozzle Group Limit can not be 0.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter A in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter B in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter C in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter D in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter E in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter F in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter G in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter H in configuration.
+ 
+2016/10/1 11:54:48: Crozzle Group Limit can not be 0.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter A in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter B in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter C in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter D in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter E in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter F in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter G in configuration.
+ 
+2016/10/1 11:54:48: There is no setting for intersect letter H in configuration.
+ 
+2016/10/1 12:27:24: The setting for horizontal crozzle word number  is invalid.
+ 
+2016/10/1 12:27:24: The setting for horizontal crozzle word number abc is invalid
+ 
+2016/10/1 12:27:24: The letter M is out of boundary.
+ 
+2016/10/1 12:27:24: The letter A is out of boundary.
+ 
+2016/10/1 12:27:24: The letter R is out of boundary.
+ 
+2016/10/1 12:27:24: The letter Y is out of boundary.
+ 
+2016/10/1 12:27:24: The letter I is out of boundary.
+ 
+2016/10/1 12:27:24: The letter L is out of boundary.
+ 
+2016/10/1 12:27:24: The letter L is out of boundary.
+ 
+2016/10/1 12:27:24: The letter L is out of boundary.
+ 
+2016/10/1 12:27:24: The letter M is out of boundary.
+ 
+2016/10/1 12:27:24: The letter A is out of boundary.
+ 
+2016/10/1 12:27:24: The letter R is out of boundary.
+ 
+2016/10/1 12:27:24: The letter K is out of boundary.
+ 
+2016/10/1 12:27:24: The difficulty of crozzle should be "EASY" or "MEDIUM" or "HARD".
+ 
+2016/10/1 12:27:24: Word number should be more than 10(inclusive) and less than 1000(inclusive).
+ 
+2016/10/1 12:27:24: The size of crozzle should be 4*8 at least and 400*800 at most.
+ 
+2016/10/1 12:27:24: The word ********** does not belong to the word list.
+ 
+2016/10/1 12:27:24: The word MARK does not belong to the word list.
+ 
+2016/10/1 12:27:24: The word WENDY does not belong to the word list.
+ 
+2016/10/1 12:27:24: The word JILL is duplicated in crozzle.
+ 
+2016/10/1 12:27:24: The  Orientation of ********** should be "HORIZONTAL" or "VERTICAL"
+ 
+2016/10/1 12:27:24: The  Orientation of WENDY should be "HORIZONTAL" or "VERTICAL"
+ 
+2016/10/1 12:27:24: The number of horizontal word is 3, but the setted horizontal word number is 0.
+ 
+2016/10/1 12:27:24: The number of vertical word is 3, but the setted vertical word number is 0
+ 
+2016/10/1 12:27:32: CROZZLELIMIT=1000 is an invalid input of configuration.
+ 
+2016/10/1 12:27:32: POINTSPERWORD=:-) is an invalid input of configuration.
+ 
+2016/10/1 12:27:32: INTERSECTING:A=:-) is an invalid input of configuration.
+ 
+2016/10/1 12:27:32: INTERSECTING:B:-)1 is an invalid input of configuration.
+ 
+2016/10/1 12:27:32: IIIIIIIIIIII:C=1 is an invalid input of configuration.
+ 
+2016/10/1 12:27:32: INTERSECTINGD=1 is an invalid input of configuration.
+ 
+2016/10/1 12:27:32: INTERSECTING:=1 is an invalid input of configuration.
+ 
+2016/10/1 12:27:32: INTERSECTING:F1 is an invalid input of configuration.
+ 
+2016/10/1 12:27:32: :G=1 is an invalid input of configuration.
+ 
+2016/10/1 12:27:32: INTERSECTING:H=XXXXXXXXXX is an invalid input of configuration.
+ 
+2016/10/1 12:27:32: Crozzle Group Limit can not be 0.
+ 
+2016/10/1 12:27:32: There is no setting for intersect letter A in configuration.
+ 
+2016/10/1 12:27:32: There is no setting for intersect letter B in configuration.
+ 
+2016/10/1 12:27:32: There is no setting for intersect letter C in configuration.
+ 
+2016/10/1 12:27:32: There is no setting for intersect letter D in configuration.
+ 
+2016/10/1 12:27:32: There is no setting for intersect letter E in configuration.
+ 
+2016/10/1 12:27:32: There is no setting for intersect letter F in configuration.
+ 
+2016/10/1 12:27:32: There is no setting for intersect letter G in configuration.
+ 
+2016/10/1 12:27:32: There is no setting for intersect letter H in configuration.
+ 
+2016/10/1 12:27:35: The difficulty of crozzle should be "EASY" or "MEDIUM" or "HARD".
+ 
+2016/10/1 12:27:35: Word number should be more than 10(inclusive) and less than 1000(inclusive).
+ 
+2016/10/1 12:27:35: The size of crozzle should be 4*8 at least and 400*800 at most.
+ 
+2016/10/1 12:27:35: The word ********** does not belong to the word list.
+ 
+2016/10/1 12:27:35: The word MARK does not belong to the word list.
+ 
+2016/10/1 12:27:35: The word WENDY does not belong to the word list.
+ 
+2016/10/1 12:27:35: The word JILL is duplicated in crozzle.
+ 
+2016/10/1 12:27:35: The  Orientation of ********** should be "HORIZONTAL" or "VERTICAL"
+ 
+2016/10/1 12:27:35: The  Orientation of WENDY should be "HORIZONTAL" or "VERTICAL"
+ 
+2016/10/1 12:27:35: The number of horizontal word is 3, but the setted horizontal word number is 0.
+ 
+2016/10/1 12:27:35: The number of vertical word is 3, but the setted vertical word number is 0
+ 
+2016/10/1 12:27:35: Crozzle Group Limit can not be 0.
+ 
+2016/10/1 12:27:35: There is no setting for intersect letter A in configuration.
+ 
+2016/10/1 12:27:35: There is no setting for intersect letter B in configuration.
+ 
+2016/10/1 12:27:35: There is no setting for intersect letter C in configuration.
+ 
+2016/10/1 12:27:35: There is no setting for intersect letter D in configuration.
+ 
+2016/10/1 12:27:35: There is no setting for intersect letter E in configuration.
+ 
+2016/10/1 12:27:35: There is no setting for intersect letter F in configuration.
+ 
+2016/10/1 12:27:35: There is no setting for intersect letter G in configuration.
+ 
+2016/10/1 12:27:35: There is no setting for intersect letter H in configuration.
+ 
+2016/10/1 13:33:59: The setting for horizontal crozzle word number  is invalid.
+ 
+2016/10/1 13:33:59: The setting for horizontal crozzle word number abc is invalid
+ 
+2016/10/1 13:33:59: The letter M is out of boundary.
+ 
+2016/10/1 13:33:59: The letter A is out of boundary.
+ 
+2016/10/1 13:33:59: The letter R is out of boundary.
+ 
+2016/10/1 13:33:59: The letter Y is out of boundary.
+ 
+2016/10/1 13:33:59: The letter I is out of boundary.
+ 
+2016/10/1 13:33:59: The letter L is out of boundary.
+ 
+2016/10/1 13:33:59: The letter L is out of boundary.
+ 
+2016/10/1 13:33:59: The letter L is out of boundary.
+ 
+2016/10/1 13:33:59: The letter M is out of boundary.
+ 
+2016/10/1 13:33:59: The letter A is out of boundary.
+ 
+2016/10/1 13:33:59: The letter R is out of boundary.
+ 
+2016/10/1 13:33:59: The letter K is out of boundary.
+ 
+2016/10/1 13:33:59: The difficulty of crozzle should be "EASY" or "MEDIUM" or "HARD".
+ 
+2016/10/1 13:33:59: Word number should be more than 10(inclusive) and less than 1000(inclusive).
+ 
+2016/10/1 13:33:59: The size of crozzle should be 4*8 at least and 400*800 at most.
+ 
+2016/10/1 13:33:59: The word ********** does not belong to the word list.
+ 
+2016/10/1 13:33:59: The word MARK does not belong to the word list.
+ 
+2016/10/1 13:33:59: The word WENDY does not belong to the word list.
+ 
+2016/10/1 13:33:59: The word JILL is duplicated in crozzle.
+ 
+2016/10/1 13:33:59: The  Orientation of ********** should be "HORIZONTAL" or "VERTICAL"
+ 
+2016/10/1 13:33:59: The  Orientation of WENDY should be "HORIZONTAL" or "VERTICAL"
+ 
+2016/10/1 13:33:59: The number of horizontal word is 3, but the setted horizontal word number is 0.
+ 
+2016/10/1 13:33:59: The number of vertical word is 3, but the setted vertical word number is 0
